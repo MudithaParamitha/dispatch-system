@@ -18,6 +18,3 @@ DataTables
 ## Live Demo
 https://mudithaparamitha.github.io/dispatch-system/
 
-## Demo Account
-username: admin  
-password: admin123
